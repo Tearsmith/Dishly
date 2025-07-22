@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1068637198083",
+    "project_id": "dishly-32636",
+    "storage_bucket": "dishly-32636.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068637198083:android:376331dc9aa66313b93b36",
+        "android_client_info": {
+          "package_name": "com.example.dishly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsAqyaE41Qmz9eeGEgh4JTWV3GjsI8AAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
